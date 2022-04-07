@@ -15,12 +15,16 @@
 Estudante de Desenvolvimento Web. Sou Bacharel em Direito e Pós-Graduado em Direito Digital e Gestão da Inovação. 
 Sou apaixonado por tecnologia e tudo que envolve o mundo digital.🤖
 ```
+  
+ ## Estou estudando💻
   <div style="display: inline_block"><br>
   <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"">
-  <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"">                                                                                                                                
-          
-          
-  
+  <img align="center" alt="GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+  <img align="center" alt"HTML" height="30" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  <img align="center" alt"CSS" height="30" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+  <img align="center" alt"CSS" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+                                                                                                                             
+                                                                                                                                      
 ## Curiosidades sobre mim 👨🏼‍💻
 
 - Sou carioca raíz, nascido e criado no Rio de Janeiro, mas já morei 3 anos em Belém do Pará.
@@ -35,7 +39,7 @@ Sou apaixonado por tecnologia e tudo que envolve o mundo digital.🤖
 ## Meu Linktree [:link:](https://linktr.ee/matheusfelipetp)
   
   
-## Meus dados no Github
+## Meus dados no Github📈
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheusfelipetp&show_icons=true&theme=tokyonight)
 [![arthurspk](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusfelipetp&hide=html&layout=compact=true&theme=tokyonight)](https://github.com/arthurspk/)
