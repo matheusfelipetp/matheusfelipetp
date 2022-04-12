@@ -1,4 +1,4 @@
-<h1 align="center"> Olá, eu sou o Matheus!🤙🏼
+<h1 align="center"> Olá, eu sou o Matheus!👋🏻
 
 <h3 align="center">
   
