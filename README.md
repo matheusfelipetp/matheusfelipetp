@@ -31,7 +31,7 @@ Sou apaixonado por tecnologia e tudo que envolve o mundo digital.🤖
 - Sou carioca raíz, nascido e criado no Rio de Janeiro, mas já morei 3 anos em Belém do Pará.
 - Sou formado em Direito, porém tenho uma grande paixão por tecnologia.
 - Fiz pós-graduação em Direito Digital para poder entender mais sobre sistema de blockchain e Lei Geral de Proteção de Dados, temas que irei utilizar no ramo tecnológico.
-- Tenho um desejo enorme de morar fora do país. Sou fascinado por viajar, conhecer novas culturas e adquirir novas experiências. Também possuo disponibilidade para morar em qualquer lugar do Brasil.
+- Tenho um desejo enorme de morar fora do país. Sou fascinado por viajar, conhecer novas culturas e adquirir novas experiências.
 - Pretendo, em breve, iniciar minha segunda graduação em Análise e Desenvolvimento de Sistemas.
 - Sou muito fã de filmes de super-heróis, principalmente da Marvel. Meu herói favorito é o amigão da vizinhança, nosso querido Homem-Aranha.
 - Gamer nas horas vagas.
