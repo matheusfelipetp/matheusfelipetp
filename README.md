@@ -43,6 +43,4 @@ Sou apaixonado por tecnologia e tudo que envolve o mundo digital.🤖
 ## Meus dados no Github📈
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheusfelipetp&show_icons=true&theme=tokyonight)
-[![matheusfelipetp](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusfelipetp&hide=html&layout=compact=true&theme=tokyonight)](https://github.com/matheusfelipetp/)
-
 ![Snake animation](https://github.com/matheusfelipetp/matheusfelipetp/blob/output/github-contribution-grid-snake.svg)
