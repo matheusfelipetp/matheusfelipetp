@@ -39,7 +39,8 @@ Sou apaixonado por tecnologia e tudo que envolve o mundo digital.🤖
 - Gamer nas horas vagas.
   
 
-## Meu Linktree [:link:](https://linktr.ee/matheusfelipetp)
+## Meu Linktree 🔗
+  <a href="https://linktr.ee/matheusfelipetp" target="_blank">Linktree</a>
   
   
 ## Meus dados no Github📈
