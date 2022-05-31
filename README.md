@@ -10,10 +10,14 @@
   <a href="https://wa.me/5521987485529" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
 </div>
 
-## Estou estudando💻
+## Tenho conhecimento🧠
   <div style="display: inline_block">
     <img align="center" alt"HTML" height="30" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
     <img align="center" alt"CSS" height="30" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+  </div>  
+  
+## Estou estudando💻
+  <div style="display: inline_block">
     <img align="center" alt"Java" height="30" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   </div>  
                                                                                                                              
