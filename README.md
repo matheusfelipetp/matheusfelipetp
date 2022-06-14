@@ -19,6 +19,7 @@
 ## Estou estudando💻
   <div style="display: inline_block">
     <img align="center" alt"Java" height="30" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+    <img align="center" alt"Git" height="30" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   </div>  
                                                                                                                              
                                                                                                                                       
