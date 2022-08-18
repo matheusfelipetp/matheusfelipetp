@@ -42,8 +42,8 @@
   
   <div align="center">
       <a href="https://github.com/matheusfelipetp">
-      <img width="350px" src="https://github-readme-stats.vercel.app/api?username=matheusfelipetp&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-      <img width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusfelipetp&layout=compact&langs_count=7&theme=tokyonight"/>
+      <img width="400px" src="https://github-readme-stats.vercel.app/api?username=matheusfelipetp&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+      <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusfelipetp&layout=compact&langs_count=7&theme=tokyonight"/>
   </div>
     
 ![Snake animation](https://github.com/matheusfelipetp/matheusfelipetp/blob/output/github-contribution-grid-snake.svg)
