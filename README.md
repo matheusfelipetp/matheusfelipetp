@@ -44,7 +44,7 @@
   
 ## Meus dados no Github 📈
   
-  <div align="center">
+  <div>
       <a href="https://github.com/matheusfelipetp">
       <img width="400px" src="https://github-readme-stats.vercel.app/api?username=matheusfelipetp&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
       <img width="395px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusfelipetp&layout=compact&langs_count=7&theme=tokyonight"/>
