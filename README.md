@@ -19,8 +19,9 @@
   
 ## Estou estudando 💻
   <div style="display: inline_block">
-    <img align="center" alt"React" height="30" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+    <img align="center" alt"React" height="30" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
     <img align="center" alt"TypeScript" height="30" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+    <img align="center" alt"Sass" height="30" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />      
   </div>  
                                                                                                                              
                                                                                                                                       
