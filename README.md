@@ -10,7 +10,7 @@
 </p>
 
 <p align="left">
-  💌 Entre em contato comigo através das minhas redes sociais: ⤵️
+  Entre em contato comigo através das minhas redes sociais: ⤵️
 </p>
 
 <div align="left">
