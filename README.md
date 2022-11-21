@@ -62,6 +62,7 @@
 **Estou estudando:**
 
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=Node.js)
+  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=PostgreSQL)
   ![SASS](https://img.shields.io/badge/-SASS-333333?style=flat&logo=SASS)
 
 ---
