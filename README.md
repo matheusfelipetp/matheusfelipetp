@@ -44,6 +44,9 @@
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=TypeScript)
+  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=Node.js)
+  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=PostgreSQL)
+  ![SASS](https://img.shields.io/badge/-SASS-333333?style=flat&logo=SASS)
 
 **DevOps:**
 
@@ -61,9 +64,8 @@
   
 **Estou estudando:**
 
-  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=Node.js)
-  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=PostgreSQL)
-  ![SASS](https://img.shields.io/badge/-SASS-333333?style=flat&logo=SASS)
+  ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=Docker)
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python)
 
 ---
   
