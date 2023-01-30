@@ -66,6 +66,7 @@
 
   ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=Docker)
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python)
+  ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=Django)
 
 ---
   
