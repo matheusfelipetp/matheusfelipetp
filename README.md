@@ -6,7 +6,7 @@
   Me chamo Matheus, tenho 25 anos e moro no Rio de Janeiro. Sou formado em Direito e pós-graduado em <strong>Direito Digital e Gestão da Inovação</strong>, com foco na <strong>Lei Geral de Proteção de Dados</strong>.
   </br>
   </br>
-  Atualmente, atuo como <strong>Desenvolvedor Front-end</strong> e criador de conteúdo para desenvolvedores iniciantes na Kenzie Academy Brasil.
+  Atualmente, atuo como <strong>Desenvolvedor Full-Stack</strong>, Instrutor de JavaScript e criador de conteúdo técnico na Kenzie Academy Brasil.
 </p>
 
 <p align="left">
@@ -26,9 +26,6 @@
     <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://instagram.com/matheusfelipetp" alt="Instagram">
   </a>
   
-   <a href="https://www.youtube.com/channel/UCEs2UQVhcWuaybT6-coTQWQ" target="_blank">
-    <img src="https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&labelColor=FF0000&logo=Youtube&logoColor=white&link=https://www.youtube.com/channel/UCEs2UQVhcWuaybT6-coTQWQ" alt="Youtube">
-  </a>
 </div>  
 
 </br>
