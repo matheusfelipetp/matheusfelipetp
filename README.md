@@ -6,7 +6,7 @@
   Me chamo Matheus, tenho 25 anos e moro no Rio de Janeiro. Sou formado em Direito e pós-graduado em <strong>Direito Digital e Gestão da Inovação</strong>, com foco na <strong>Lei Geral de Proteção de Dados</strong>.
   </br>
   </br>
-  Atualmente, atuo como <strong>Desenvolvedor Full-Stack</strong>, Instrutor de JavaScript e criador de conteúdo técnico na Kenzie Academy Brasil.
+  Atualmente, atuo como <strong>Desenvolvedor Full-Stack</strong>, Instrutor de JavaScript no SENAC-RJ e criador de conteúdo técnico na Kenzie Academy Brasil.
 </p>
 
 <p align="left">
