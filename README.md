@@ -44,6 +44,7 @@
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=Node.js)
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=PostgreSQL)
   ![SASS](https://img.shields.io/badge/-SASS-333333?style=flat&logo=SASS)
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python)
 
 **DevOps:**
 
@@ -60,10 +61,9 @@
 
   
 **Estou estudando:**
-
+  
+  ![Vue.js](https://img.shields.io/badge/-Vue.js-333333?style=flat&logo=Vue.js)
   ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=Docker)
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python)
-  ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=Django)
 
 ---
   
