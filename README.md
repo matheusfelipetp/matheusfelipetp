@@ -62,6 +62,7 @@
   
 **Estou estudando:**
   
+  ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=Next.js)
   ![Vue.js](https://img.shields.io/badge/-Vue.js-333333?style=flat&logo=Vue.js)
   ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=Docker)
 
