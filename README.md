@@ -6,7 +6,7 @@
   Me chamo Matheus, tenho 26 anos e moro no Rio de Janeiro. Sou formado em Direito e pós-graduado em <strong>Direito Digital e Gestão da Inovação</strong>, com foco na <strong>Lei Geral de Proteção de Dados</strong>.
   </br>
   </br>
-  Atualmente, atuo como <strong>Desenvolvedor Front-end/strong> na Mit Tech e Instrutor de JavaScript no SENAC-RJ.
+  Atualmente, atuo como <strong>Desenvolvedor Front-end</strong> na Mit Tech e Instrutor de JavaScript no SENAC-RJ.
 </p>
 
 <p align="left">
