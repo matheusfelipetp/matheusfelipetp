@@ -6,7 +6,7 @@
   Me chamo Matheus, tenho 26 anos e moro no Rio de Janeiro. Sou formado em Direito e pós-graduado em <strong>Direito Digital e Gestão da Inovação</strong>, com foco na <strong>Lei Geral de Proteção de Dados</strong>.
   </br>
   </br>
-  Atualmente, atuo como <strong>Desenvolvedor Front-end</strong> na Mit Tech e Instrutor de JavaScript no SENAC-RJ.
+  Atualmente, atuo como <strong>Desenvolvedor Full Stack</strong> na Mit Tech e Instrutor de JavaScript no SENAC-RJ.
 </p>
 
 <p align="left">
@@ -44,6 +44,8 @@
   ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=TypeScript)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=Node.js)
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=PostgreSQL)
+  ![TypeORM](https://img.shields.io/badge/-TypeORM-333333?style=flat&logo=TypeORM)
+  ![Prisma](https://img.shields.io/badge/-Prisma-333333?style=flat&logo=Prisma)
   ![SASS](https://img.shields.io/badge/-SASS-333333?style=flat&logo=SASS)
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python)
 
@@ -51,7 +53,7 @@
 
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  
+  ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=Docker)
 
 **Ferramentas:**
 
@@ -64,7 +66,6 @@
 **Estou estudando:**
   
   ![Vue.js](https://img.shields.io/badge/-Vue.js-333333?style=flat&logo=Vue.js)
-  ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=Docker)
 
 ---
   
