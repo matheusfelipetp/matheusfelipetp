@@ -44,7 +44,7 @@
   ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=TypeScript)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=Node.js)
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=PostgreSQL)
-  ![TypeORM](https://img.shields.io/badge/-TypeORM-333333?style=flat&logo=TypeORM)
+  ![TypeORM](https://img.shields.io/badge/-TypeORM-333333?style=flat&logo=typeorm)
   ![Prisma](https://img.shields.io/badge/-Prisma-333333?style=flat&logo=Prisma)
   ![SASS](https://img.shields.io/badge/-SASS-333333?style=flat&logo=SASS)
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python)
@@ -67,6 +67,7 @@
 **Estou estudando:**
   
   ![Vue.js](https://img.shields.io/badge/-Vue.js-333333?style=flat&logo=Vue.js)
+  ![React Native](https://img.shields.io/badge/-ReactNative-333333?style=flat&logo=react)
 
 ---
   
