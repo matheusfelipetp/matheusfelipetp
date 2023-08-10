@@ -1,16 +1,16 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-<h3>Olá, bem-vindo(a) ao meu Github! :wave:</h3>
+<h3>Hello, welcome to my Github! :wave:</h3>
 
 <p align="left"> 
-  Me chamo Matheus, tenho 26 anos e moro no Rio de Janeiro. Sou formado em Direito e pós-graduado em <strong>Direito Digital e Gestão da Inovação</strong>, com foco na <strong>Lei Geral de Proteção de Dados</strong>.
+  My name is Matheus, I'm 26 years old and I live in Rio de Janeiro. I have a degree in Law and a postgraduate degree in <strong>Digital Law and Innovation Management<strong>, focusing on the <strong>General Data Protection Law (LGPD)<strong>.
   </br>
   </br>
-  Atualmente, atuo como <strong>Desenvolvedor Full Stack</strong> na Mit Tech e Instrutor de JavaScript no SENAC-RJ.
+ Currently, I work as <strong>Full Stack Developer</strong> at Mit Tech and JavaScript Instructor at SENAC-RJ.
 </p>
 
 <p align="left">
-  Entre em contato comigo através das minhas redes sociais: ⤵️
+ Get in touch with me through my social networks: ⤵️
 </p>
 
 <div align="left">
@@ -32,9 +32,9 @@
 
 ---
 
-<h3>Minhas Skills :rocket:</h3>
+<h3>My Skillss :rocket:</h3>
 
-  **Aplicações e Dados:**
+  **Applications and Data:**
 
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
@@ -55,7 +55,7 @@
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=Docker)
 
-**Ferramentas:**
+**Tools:**
 
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=fff)
@@ -64,14 +64,14 @@
   ![Jira](https://img.shields.io/badge/-Jira-333333?style=flat&logo=jira&logoColor=007ACC)
   ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman&logoColor=007ACC)
   
-**Estou estudando:**
+**I am studying:**
   
   ![Vue.js](https://img.shields.io/badge/-Vue.js-333333?style=flat&logo=Vue.js)
   ![React Native](https://img.shields.io/badge/-ReactNative-333333?style=flat&logo=react)
 
 ---
   
-<h3>Meus dados :bar_chart:</h3>
+<h3>My data :bar_chart:</h3>
   
   <div>
       <a href="https://github.com/matheusfelipetp">
