@@ -32,7 +32,7 @@
 
 ---
 
-<h3>My Skillss :rocket:</h3>
+<h3>My Skills :rocket:</h3>
 
   **Applications and Data:**
 
