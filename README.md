@@ -3,10 +3,13 @@
 <h3>Hello, welcome to my Github! :wave:</h3>
 
 <p align="left"> 
-  My name is Matheus, I'm 26 years old and I live in Rio de Janeiro. I have a degree in Law and a postgraduate degree in <strong>Digital Law and Innovation Management<strong>, focusing on the <strong>General Data Protection Law (LGPD)<strong>.
+My name is Matheus, I'm 26 years old and I live in Rio de Janeiro. I have a degree in Law and a postgraduate degree in <strong>Digital Law and Innovation Management</strong>, focusing on the <strong>General Data Protection Law (LGPD)</strong>
   </br>
   </br>
- Currently, I work as <strong>Full Stack Developer</strong> at Mit Tech and JavaScript Instructor at SENAC-RJ.
+Currently, I work as a <strong>Full Stack Developer</strong> at Mit Tech and JavaScript <strong>Instructor</strong> at SENAC-RJ. 
+  </br>
+  </br>
+I am also studying my second degree in Systems Analysis and Development.
 </p>
 
 <p align="left">
