@@ -69,7 +69,6 @@ I am also studying my second degree in Systems Analysis and Development.
   
 **I am studying:**
   
-  ![Vue.js](https://img.shields.io/badge/-Vue.js-333333?style=flat&logo=Vue.js)
   ![React Native](https://img.shields.io/badge/-ReactNative-333333?style=flat&logo=react)
   ![C#](https://img.shields.io/badge/-C%23-333333?style=flat&logo=c-sharp)
 
