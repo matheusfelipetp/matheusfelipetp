@@ -51,6 +51,7 @@ I am also studying my second degree in Systems Analysis and Development.
   ![Prisma](https://img.shields.io/badge/-Prisma-333333?style=flat&logo=Prisma)
   ![SASS](https://img.shields.io/badge/-SASS-333333?style=flat&logo=SASS)
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python)
+  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=MySql)
 
 **DevOps:**
 
