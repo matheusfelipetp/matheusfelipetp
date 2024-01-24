@@ -52,6 +52,7 @@ I am also studying my second degree in Systems Analysis and Development.
   ![SASS](https://img.shields.io/badge/-SASS-333333?style=flat&logo=SASS)
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python)
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=MySql)
+  ![React Native](https://img.shields.io/badge/-ReactNative-333333?style=flat&logo=react)
 
 **DevOps:**
 
@@ -70,8 +71,7 @@ I am also studying my second degree in Systems Analysis and Development.
   ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman&logoColor=007ACC)
   
 **I am studying:**
-  
-  ![React Native](https://img.shields.io/badge/-ReactNative-333333?style=flat&logo=react)
+
   ![C#](https://img.shields.io/badge/-C%23-333333?style=flat&logo=c-sharp)
 
 ---
