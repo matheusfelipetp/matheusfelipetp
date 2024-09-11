@@ -48,7 +48,6 @@ I am also studying my second degree in Systems Analysis and Development.
   ![TypeORM](https://img.shields.io/badge/-TypeORM-333333?style=flat&logo=typeorm)
   ![Prisma](https://img.shields.io/badge/-Prisma-333333?style=flat&logo=Prisma)
   ![SASS](https://img.shields.io/badge/-SASS-333333?style=flat&logo=SASS)
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python)
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=MySql)
   ![React Native](https://img.shields.io/badge/-ReactNative-333333?style=flat&logo=react)
 
@@ -72,6 +71,11 @@ I am also studying my second degree in Systems Analysis and Development.
 
   ![C#](https://img.shields.io/badge/-C%23-333333?style=flat&logo=c-sharp)
 
+  
+**Basic skills:**
+
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python)
+  
 ---
   
 <h3>My data :bar_chart:</h3>
