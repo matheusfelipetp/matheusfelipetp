@@ -35,42 +35,26 @@ I am also studying my second degree in Systems Analysis and Development.
 
 <h3>My Skills :rocket:</h3>
 
-  **Applications and Data:**
-
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  ![SASS](https://img.shields.io/badge/-SASS-333333?style=flat&logo=SASS)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=TypeScript)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=Next.js)
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=TypeScript)
-  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=Node.js)
-  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=PostgreSQL)
-  ![TypeORM](https://img.shields.io/badge/-TypeORM-333333?style=flat&logo=typeorm)
-  ![Prisma](https://img.shields.io/badge/-Prisma-333333?style=flat&logo=Prisma)
-  ![SASS](https://img.shields.io/badge/-SASS-333333?style=flat&logo=SASS)
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=MySql)
   ![React Native](https://img.shields.io/badge/-ReactNative-333333?style=flat&logo=react)
+  ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular)
+  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=Node.js)
+  ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=SQL)
+  ![C#](https://img.shields.io/badge/-C%23-333333?style=flat&logo=c-sharp)
 
 **DevOps:**
-
+  
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![GitLab](https://img.shields.io/badge/-GitLab-333333?style=flat&logo=gitlab)
   ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=Docker)
-
-**Tools:**
-
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=fff)
-  ![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
-  ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
-  ![Jira](https://img.shields.io/badge/-Jira-333333?style=flat&logo=jira&logoColor=007ACC)
-  ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman&logoColor=007ACC)
-  
-**I am studying:**
-
-  ![C#](https://img.shields.io/badge/-C%23-333333?style=flat&logo=c-sharp)
-
+  ![Azure](https://img.shields.io/badge/-Azure-333333?style=flat&logo=MicrosoftAzure)
   
 **Basic skills:**
 
