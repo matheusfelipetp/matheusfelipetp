@@ -29,44 +29,34 @@ I am also studying my second degree in Systems Analysis and Development.
   
 </div>  
 
-</br>
 
 ---
 
-<h3>My Skills :rocket:</h3>
+ <br />
 
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![SASS](https://img.shields.io/badge/-SASS-333333?style=flat&logo=SASS)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=TypeScript)
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-  ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=Next.js)
-  ![React Native](https://img.shields.io/badge/-ReactNative-333333?style=flat&logo=react)
-  ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular)
-  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=Node.js)
-  ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=SQL)
-  ![C#](https://img.shields.io/badge/-C%23-333333?style=flat&logo=c-sharp)
+<div align="center" >
+  <img src="https://skillicons.dev/icons?i=git,gitlab,github,vscode,visualstudio,figma,html,css,javascript,typescript,react,nextjs,angular,tailwind,sass,bootstrap,materialui,styledcomponents,nodejs,express,nestjs,prisma,jest,cs,dotnet,docker,azure,vercel,mongodb,postgres,mysql" />
+</div>
 
-**DevOps:**
-  
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![GitLab](https://img.shields.io/badge/-GitLab-333333?style=flat&logo=gitlab)
-  ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=Docker)
-  ![Azure](https://img.shields.io/badge/-Azure-333333?style=flat&logo=MicrosoftAzure)
-  
-**Basic skills:**
+ <br />
 
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python)
-  
 ---
-  
-<h3>My data :bar_chart:</h3>
-  
-  <div>
-      <a href="https://github.com/matheusfelipetp">
-      <img width="450px" src="https://github-readme-stats.vercel.app/api?username=matheusfelipetp&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-      <img width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusfelipetp&layout=compact&langs_count=7&theme=tokyonight"/>
-  </div>
-    
+
+ <br />
+
+<div align="center">
+  <img
+    width="40%"
+    height="295px"
+    src="https://github-readme-stats.vercel.app/api?username=matheusfelipetp&card_width=295&include_all_commits=true&show_icons=true&count_private=true&hide_rank=true&title_color=F9FAFB&text_color=9ca3af&bg_color=030712&border_color=1f2937&icon_color=6D28D9&border_radius=16&locale=en"
+    alt="Matheus Felipe GitHub Stats"
+  />
+  <img
+    width="47%"
+    height="295px"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusfelipetp&layout=compact&title_color=F9FAFB&text_color=9ca3af&bg_color=030712&border_color=1f2937&icon_color=6D28D9&border_radius=16&locale=en&size_weight=0.5&count_weight=0.5"
+    alt="Matheus Felipe Top Languages"
+  />
+</div>
+
+
