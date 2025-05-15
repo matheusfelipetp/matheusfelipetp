@@ -29,20 +29,15 @@ I am also studying my second degree in Systems Analysis and Development.
   
 </div>  
 
-
----
-
  <br />
+ 
+---
 
 <div align="center" >
   <img src="https://skillicons.dev/icons?i=git,gitlab,github,vscode,visualstudio,figma,html,css,javascript,typescript,react,nextjs,angular,tailwind,sass,bootstrap,materialui,styledcomponents,nodejs,express,nestjs,prisma,jest,cs,dotnet,docker,azure,vercel,mongodb,postgres,mysql" />
 </div>
 
- <br />
-
 ---
-
- <br />
 
 <div align="center">
   <img
@@ -58,5 +53,3 @@ I am also studying my second degree in Systems Analysis and Development.
     alt="Matheus Felipe Top Languages"
   />
 </div>
-
-
