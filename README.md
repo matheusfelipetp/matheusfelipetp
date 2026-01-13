@@ -1,14 +1,13 @@
 <h3>Hello, welcome to my Github! :wave:</h3>
 
 <p align="left"> 
-My name is Matheus, I'm 28 years old and I live in Rio de Janeiro. I have a degree in Law and a postgraduate degree in <strong>Digital Law and Innovation Management</strong>, focusing on the <strong>General Data Protection Law (LGPD)</strong>
-  </br>
-  </br>
-Currently, I work as a <strong>Full Stack Developer</strong>. 
-  </br>
-  </br>
-I am also studying my second degree in Systems Analysis and Development.
-</p>
+Software Developer with over 4 years of experience in developing robust and scalable solutions, always focusing on quality, performance, and user experience.
+
+Currently contributing to the digital transformation in the field of education at Senac Brazil, delivering high-impact results at the national level.
+
+I have experience in squads with agile methodologies, such as Scrum and Kanban, participating from architectural design to final implementation of systems.
+
+In addition, I have a Bachelor's degree in Law and a Postgraduate degree in Digital Law and Innovation Management, with a focus on the General Data Protection Law (LGPD). I am also studying Systems Analysis and Development, combining legal knowledge and technology to create secure and innovative solutions.
 
 <p align="left">
  Get in touch with me through my social networks: ⤵️
