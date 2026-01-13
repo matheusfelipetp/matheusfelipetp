@@ -33,23 +33,6 @@ I am also studying my second degree in Systems Analysis and Development.
  
 ---
 
-<div align="center" >
+<div align="left" >
   <img src="https://skillicons.dev/icons?i=git,gitlab,github,vscode,visualstudio,figma,html,css,javascript,typescript,react,nextjs,angular,tailwind,sass,bootstrap,materialui,styledcomponents,nodejs,express,nestjs,prisma,jest,cs,dotnet,docker,azure,vercel,mongodb,postgres,mysql" />
-</div>
-
----
-
-<div align="center">
-  <img
-    width="40%"
-    height="295px"
-    src="https://github-readme-stats.vercel.app/api?username=matheusfelipetp&card_width=295&include_all_commits=true&show_icons=true&count_private=true&hide_rank=true&title_color=F9FAFB&text_color=9ca3af&bg_color=030712&border_color=1f2937&icon_color=6D28D9&border_radius=16&locale=en"
-    alt="Matheus Felipe GitHub Stats"
-  />
-  <img
-    width="47%"
-    height="295px"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusfelipetp&layout=compact&title_color=F9FAFB&text_color=9ca3af&bg_color=030712&border_color=1f2937&icon_color=6D28D9&border_radius=16&locale=en&size_weight=0.5&count_weight=0.5"
-    alt="Matheus Felipe Top Languages"
-  />
 </div>
