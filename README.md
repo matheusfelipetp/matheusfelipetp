@@ -9,13 +9,6 @@ Experienced working in agile squads using Scrum and Kanban, participating throug
 
 Holds a Bachelor's degree in Systems Analysis and Development, as well as a Law degree and a postgraduate specialization in Digital Law and Innovation Management, with a focus on LGPD. Combines legal and technical expertise to build secure, efficient, and innovative solutions.
 
-Skills:
-Node.js, React, Next.js, React Native, Angular, TypeScript, and .NET
-Clean Code and testing best practices
-Performance optimization
-Agile methodologies
-Software architecture and design patterns
-
 <p align="left">
  Get in touch with me through my social networks: ⤵️
 </p>
