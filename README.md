@@ -1,13 +1,20 @@
 <h3>Hello, welcome to my Github! :wave:</h3>
 
 <p align="left"> 
-Software Developer with over 4 years of experience in developing robust and scalable solutions, always focusing on quality, performance, and user experience.
+Software Developer with over 4 years of experience building robust and scalable solutions, consistently focused on quality, performance, and user experience.
 
-Currently contributing to the digital transformation in the field of education at Senac Brazil, delivering high-impact results at the national level.
+Currently contributing to digital transformation in the education sector at Senac Brasil, delivering high-impact solutions at a national scale.
 
-I have experience in squads with agile methodologies, such as Scrum and Kanban, participating from architectural design to final implementation of systems.
+Experienced working in agile squads using Scrum and Kanban, participating throughout the full development lifecycle, from architectural design to final implementation.
 
-In addition, I have a Bachelor's degree in Law and a Postgraduate degree in Digital Law and Innovation Management, with a focus on the General Data Protection Law (LGPD). I am also studying Systems Analysis and Development, combining legal knowledge and technology to create secure and innovative solutions.
+Holds a Bachelor's degree in Systems Analysis and Development, as well as a Law degree and a postgraduate specialization in Digital Law and Innovation Management, with a focus on LGPD. Combines legal and technical expertise to build secure, efficient, and innovative solutions.
+
+Skills:
+Node.js, React, Next.js, React Native, Angular, TypeScript, and .NET
+Clean Code and testing best practices
+Performance optimization
+Agile methodologies
+Software architecture and design patterns
 
 <p align="left">
  Get in touch with me through my social networks: ⤵️
