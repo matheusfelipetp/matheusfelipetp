@@ -1,13 +1,7 @@
 <h3>Hello, welcome to my Github! :wave:</h3>
 
 <p align="left"> 
-Software Developer with over 4 years of experience building robust and scalable solutions, consistently focused on quality, performance, and user experience.
-
-Currently contributing to digital transformation in the education sector at Senac Brasil, delivering high-impact solutions at a national scale.
-
-Experienced working in agile squads using Scrum and Kanban, participating throughout the full development lifecycle, from architectural design to final implementation.
-
-Holds a Bachelor's degree in Systems Analysis and Development, as well as a Law degree and a postgraduate specialization in Digital Law and Innovation Management, with a focus on LGPD. Combines legal and technical expertise to build secure, efficient, and innovative solutions.
+Full Stack Software Engineer specializing in scalable architectures, high-performance APIs, and seamless user experiences. Currently at Senac Brasil, contributing to the digital transformation within the educational sector by designing cloud-native solutions that translate complex business rules into high-impact deliveries on a national scale.
 
 <p align="left">
  Get in touch with me through my social networks: ⤵️
