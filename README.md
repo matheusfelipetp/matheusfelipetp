@@ -1,7 +1,7 @@
 <h3>Hello, welcome to my Github! :wave:</h3>
 
 <p align="left"> 
-Full Stack Software Engineer specializing in scalable architectures, high-performance APIs, and seamless user experiences. Currently at Senac Brasil, contributing to the digital transformation within the educational sector by designing cloud-native solutions that translate complex business rules into high-impact deliveries on a national scale.
+Full Stack Software Engineer specialized in scalable architectures, high-performance APIs, and user experience. Currently at BTG Pactual, contributing to digital transformation in the banking/financial sector, designing cloud-native solutions that connect complex business rules to high-impact deliverables on an international scale.
 
 <p align="left">
  Get in touch with me through my social networks: ⤵️
